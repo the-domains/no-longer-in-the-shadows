@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[No Longer In The Shadows]]></title>
         <description><![CDATA[No Longer In The Shadows]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/no-longer-in-the-shadows/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 22:03:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 22:04:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/no-longer-in-the-shadows/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"I think that the best day will be when we no longer talk about being gay or straight - it’s not a ‘gay wedding,’ it’s just a 'wedding." - Pink</p>]]></description>
+            <link>https://thegrid.ai/no-longer-in-the-shadows/f7532218-4b25-4981-8055-afc8360c28e5/index.html</link>
+            <guid isPermaLink="false">f7532218-4b25-4981-8055-afc8360c28e5</guid>
+            <pubDate>Wed, 03 Feb 2016 22:03:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a24edca7-5a72-4230-ba92-30e1829cc933.jpg">]]></description>
-            <link>undefinedf20f2773-4e60-4cbe-9099-7135fd1f7e09/index.html</link>
+            <link>https://thegrid.ai/no-longer-in-the-shadows/f20f2773-4e60-4cbe-9099-7135fd1f7e09/index.html</link>
             <guid isPermaLink="false">f20f2773-4e60-4cbe-9099-7135fd1f7e09</guid>
             <pubDate>Wed, 03 Feb 2016 22:03:31 GMT</pubDate>
         </item>
